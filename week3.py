@@ -62,5 +62,4 @@ def password_counter2(lo, hi):
     return counter
 
 answer = password_counter2(284639, 748759)
-# 295 is too low...
 
